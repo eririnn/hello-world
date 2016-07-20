@@ -1,2 +1,2 @@
 # hello-world
-my repository
+it's ok
